@@ -11,31 +11,35 @@ the research community on the theory of blockchain is much smaller compared to t
 
 ## Machine Learning related
 - An AI Based Super Nodes Selection Algorithm in BlockChain Networks [(url)](https://arxiv.org/abs/1808.00216)
+- Optimal Auction For Edge Computing Resource Management in Mobile Blockchain Networks: A Deep Learning Approach [(url)](https://arxiv.org/abs/1711.02844)
 - Trustless Machine Learning Contracts; Evaluating and Exchanging Machine Learning Models on the Ethereum Blockchain 
 [(url)](https://arxiv.org/abs/1804.08230)
-- Optimal Auction For Edge Computing Resource Management in Mobile Blockchain Networks: A Deep Learning Approach [(url)](https://arxiv.org/abs/1711.02844)
 
 ## Mining Process Analysis
 
 - Blockchain Queueing Theory [(url)](https://arxiv.org/abs/1808.01795.pdf)
+- Double spend races [(url)](https://arxiv.org/abs/1702.02867)
+- Effect of Bitcoin fee on transaction-confirmation process [(url)](https://arxiv.org/abs/1604.00103)
 - On profitability of stubborn mining [(url)](https://arxiv.org/abs/1808.01041)
 - On profitability of selfish mining [(url)](https://arxiv.org/abs/1805.08281)
-- Double spend races [(url)](https://arxiv.org/abs/1702.02867)
+- Transaction-confirmation time for Bitcoin: A queueing analytical approach to blockchain mechanism
+[(url)](https://link.springer.com/chapter/10.1007/978-3-319-68520-5_5)
 
 ## Game Theory related
-- Decentralized Caching for Content Delivery Based on Blockchain: A Game Theoretic Perspective [(url)](https://arxiv.org/abs/1801.07604)
+- Bitcoin mining pools: A cooperative game theoretic analysis
 - Blockchain Mining Games [(url)](https://arxiv.org/abs/1607.02420)
-
-## Graph Theory related
-- Blockchain: A Graph Primer[(url)](https://arxiv.org/abs/1708.08749)
+- Decentralized Caching for Content Delivery Based on Blockchain: A Game Theoretic Perspective [(url)](https://arxiv.org/abs/1801.07604)
+[(url)](https://www.microsoft.com/en-us/research/publication/bitcoin-mining-pools-a-cooperative-game-theoretic-analysis/)
+- The Bitcoin Mining Game [(url)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2407834)
+- The blockchain folk theorem[(url)](https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/wp/2017/wp_tse_817.pdf)
 
 ## Pure Mathematics related
-- Blockchain Cohomology [(url)](https://arxiv.org/abs/1805.07047)
 - A Logic of Blockchain Updates [(url)](https://arxiv.org/abs/1707.01766)
+- Blockchain Cohomology [(url)](https://arxiv.org/abs/1805.07047)
 
 ## Physics related
-- Quantum Blockchain using entanglement in time [(url)](https://arxiv.org/pdf/1804.05979.pdf)
 - Blockchain platform with proof-of-work based on analog Hamiltonian optimisers [(url)](https://arxiv.org/abs/1802.10091)
+- Quantum Blockchain using entanglement in time [(url)](https://arxiv.org/pdf/1804.05979.pdf)
 
 ## misc
 
