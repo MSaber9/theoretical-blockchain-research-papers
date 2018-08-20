@@ -5,9 +5,12 @@ A list of research papers on theoretical/mathematical aspects of blockchain or M
 The following classifications are neither correct or mutual exclusive. As of the first commit to this repository,
 the research community on the theory of blockchain is much smaller compared to the other active research fields such as Machine learning. 
 
-> However, little work has been done on basic theory of blockchain systems so far, for example, developing mathematical models (e.g., optimal methods, Markov processes, queueing theory and game models), providing performance analysis and optimization, and setting up useful relations among key factors or basic parameters. — Li, Quan-Lin, Jing-Yu Ma, and Yan-Xia Chang. "Blockchain Queueing Theory." arXiv preprint arXiv:1808.01795 (2018).
+> However, little work has been done on basic theory of blockchain systems so far, for example, developing mathematical models
+> (e.g., optimal methods, Markov processes, queueing theory and game models), 
+> providing performance analysis and optimization, and setting up useful relations among key factors or basic parameters. 
+> — Li, Quan-Lin, Jing-Yu Ma, and Yan-Xia Chang. "Blockchain Queueing Theory." arXiv preprint arXiv:1808.01795 (2018).
 
-**Any contributions and suggestions are welcome. Please feel free to send PRs.**
+**Any contribution and suggestion would be welcome. Please feel free to send PRs.**
 
 ## Machine Learning related
 - An AI Based Super Nodes Selection Algorithm in BlockChain Networks [(url)](https://arxiv.org/abs/1808.00216)
