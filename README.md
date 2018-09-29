@@ -29,6 +29,7 @@ the research community on the theory of blockchain is much smaller compared to t
 [(url)](https://link.springer.com/chapter/10.1007/978-3-319-68520-5_5)
 
 ## Game Theory related
+- A Game-Theoretic Analysis of Shard-Based Permissionless Blockchains [(url)](https://arxiv.org/abs/1809.07307)
 - Bitcoin mining pools: A cooperative game theoretic analysis
 - Blockchain Mining Games [(url)](https://arxiv.org/abs/1607.02420)
 - Decentralized Caching for Content Delivery Based on Blockchain: A Game Theoretic Perspective [(url)](https://arxiv.org/abs/1801.07604)
