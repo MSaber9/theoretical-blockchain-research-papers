@@ -16,7 +16,7 @@ the research community on the theory of blockchain is much smaller compared to t
 - An AI Based Super Nodes Selection Algorithm in BlockChain Networks [(url)](https://arxiv.org/abs/1808.00216)
 - Optimal Auction For Edge Computing Resource Management in Mobile Blockchain Networks: A Deep Learning Approach [(url)](https://arxiv.org/abs/1711.02844)
 - Trustless Machine Learning Contracts; Evaluating and Exchanging Machine Learning Models on the Ethereum Blockchain 
-[(url)](https://arxiv.org/abs/1804.08230)
+[(url)](https://arxiv.org/abs/1802.10185)
 
 ## Mining Process Analysis
 
