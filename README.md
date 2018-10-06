@@ -28,7 +28,7 @@ the research community on the theory of blockchain is much smaller compared to t
 - Transaction-confirmation time for Bitcoin: A queueing analytical approach to blockchain mechanism
 [(url)](https://link.springer.com/chapter/10.1007/978-3-319-68520-5_5)
 
-## Game Theory related
+## Game Theory 
 - A Game-Theoretic Analysis of Shard-Based Permissionless Blockchains [(url)](https://arxiv.org/abs/1809.07307)
 - Bitcoin mining pools: A cooperative game theoretic analysis
 - Blockchain Mining Games [(url)](https://arxiv.org/abs/1607.02420)
@@ -36,6 +36,10 @@ the research community on the theory of blockchain is much smaller compared to t
 [(url)](https://www.microsoft.com/en-us/research/publication/bitcoin-mining-pools-a-cooperative-game-theoretic-analysis/)
 - The Bitcoin Mining Game [(url)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2407834)
 - The blockchain folk theorem[(url)](https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/wp/2017/wp_tse_817.pdf)
+
+## Dynamical Systems
+- A State-Space Modeling Framework for Engineering Blockchain-Enabled Economic Systems [(url)](https://arxiv.org/abs/1807.00955)
+
 
 ## Pure Mathematics related
 - A Logic of Blockchain Updates [(url)](https://arxiv.org/abs/1707.01766)
